@@ -1,4 +1,4 @@
-!pip install praw
+pip install praw
 import streamlit as st
 import praw
 import pandas as pd
